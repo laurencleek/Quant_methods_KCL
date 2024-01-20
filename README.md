@@ -7,5 +7,5 @@ Labs: Monday afternoon 13-14, 14-15, 15-16.
 # Useful links: 
 
 If you need Stata help
-https://stackoverflow.com/ 
+https://stackoverflow.com/ and https://www.statalist.org/
 
